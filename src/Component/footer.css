@@ -1,0 +1,22 @@
+@media screen and (max-width: 576px){
+    .footer-container{
+        display: block;
+    }
+    .footer-description{
+        text-align: center;
+    }
+    .footer-text{
+        text-align: center;
+    }
+    .lorem{
+        margin: auto;
+    }
+    .margin-buttom{
+        margin-bottom: 10px;
+    }
+    .footer-here{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        margin-left: 54px;
+    }
+}
