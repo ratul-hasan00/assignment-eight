@@ -1,0 +1,542 @@
+[
+  {
+    "image": "https://cdn.example.com/apps/spotify.png",
+    "title": "Spotify",
+    "companyName": "Spotify AB",
+    "id": 1,
+    "description": "Stream millions of songs and podcasts instantly.",
+    "size": 45,
+    "reviews": 12500000,
+    "ratingAvg": 4.7,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 250000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 2200000 },
+      { "name": "5 star", "count": 8800000 }
+    ]
+  },
+  {
+    "image": "https://cdn.example.com/apps/instagram.png",
+    "title": "Instagram",
+    "companyName": "Meta Platforms Inc.",
+    "id": 2,
+    "description": "Share your moments with the world through photos and stories.",
+    "size": 60,
+    "reviews": 24000000,
+    "ratingAvg": 4.4,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 900000 },
+      { "name": "2 star", "count": 1500000 },
+      { "name": "3 star", "count": 4000000 },
+      { "name": "4 star", "count": 7500000 },
+      { "name": "5 star", "count": 10200000 }
+    ]
+  },
+  {
+    "image": "https://cdn.example.com/apps/whatsapp.png",
+    "title": "WhatsApp Messenger",
+    "companyName": "Meta Platforms Inc.",
+    "id": 3,
+    "description": "Fast and secure messaging and calls, completely free.",
+    "size": 35,
+    "reviews": 18000000,
+    "ratingAvg": 4.6,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 800000 },
+      { "name": "3 star", "count": 1200000 },
+      { "name": "4 star", "count": 4000000 },
+      { "name": "5 star", "count": 11400000 }
+    ]
+  },
+  {
+    "image": "https://cdn.example.com/apps/tiktok.png",
+    "title": "TikTok",
+    "companyName": "ByteDance Ltd.",
+    "id": 4,
+    "description": "Create and watch short, engaging videos with music and filters.",
+    "size": 75,
+    "reviews": 22000000,
+    "ratingAvg": 4.5,
+    "downloads": 3000000000,
+    "ratings": [
+      { "name": "1 star", "count": 800000 },
+      { "name": "2 star", "count": 1000000 },
+      { "name": "3 star", "count": 2500000 },
+      { "name": "4 star", "count": 5000000 },
+      { "name": "5 star", "count": 12700000 }
+    ]
+  },
+  {
+    "image": "https://cdn.example.com/apps/telegram.png",
+    "title": "Telegram",
+    "companyName": "Telegram FZ-LLC",
+    "id": 5,
+    "description": "Cloud-based messaging app focused on speed and privacy.",
+    "size": 40,
+    "reviews": 7000000,
+    "ratingAvg": 4.8,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 600000 },
+      { "name": "4 star", "count": 1400000 },
+      { "name": "5 star", "count": 4500000 }
+    ]
+  },
+  {
+    "image": "https://cdn.example.com/apps/netflix.png",
+    "title": "Netflix",
+    "companyName": "Netflix Inc.",
+    "id": 6,
+    "description": "Stream movies, shows, and Netflix Originals anytime.",
+    "size": 90,
+    "reviews": 11000000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 700000 },
+      { "name": "2 star", "count": 900000 },
+      { "name": "3 star", "count": 1800000 },
+      { "name": "4 star", "count": 3200000 },
+      { "name": "5 star", "count": 4400000 }
+    ]
+  },
+  {
+    "image": "https://cdn.example.com/apps/youtube.png",
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "id": 7,
+    "description": "Watch, upload, and share videos with the global community.",
+    "size": 85,
+    "reviews": 32000000,
+    "ratingAvg": 4.6,
+    "downloads": 10000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1200000 },
+      { "name": "2 star", "count": 1500000 },
+      { "name": "3 star", "count": 3500000 },
+      { "name": "4 star", "count": 6200000 },
+      { "name": "5 star", "count": 19600000 }
+    ]
+  },
+  {
+    "image": "https://cdn.example.com/apps/zoom.png",
+    "title": "Zoom Meetings",
+    "companyName": "Zoom Video Communications",
+    "id": 8,
+    "description": "Video conferencing and collaboration made simple.",
+    "size": 60,
+    "reviews": 8000000,
+    "ratingAvg": 4.3,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 600000 },
+      { "name": "3 star", "count": 1200000 },
+      { "name": "4 star", "count": 2400000 },
+      { "name": "5 star", "count": 3300000 }
+    ]
+  },
+  {
+    "image": "https://cdn.example.com/apps/canva.png",
+    "title": "Canva",
+    "companyName": "Canva Pty Ltd.",
+    "id": 9,
+    "description": "Design anything — from social media posts to resumes — easily.",
+    "size": 70,
+    "reviews": 6500000,
+    "ratingAvg": 4.8,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 150000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 400000 },
+      { "name": "4 star", "count": 900000 },
+      { "name": "5 star", "count": 4850000 }
+    ]
+  },
+  {
+    "image": "https://cdn.example.com/apps/amazon.png",
+    "title": "Amazon Shopping",
+    "companyName": "Amazon Mobile LLC",
+    "id": 10,
+    "description": "Shop millions of products at great prices anytime.",
+    "size": 60,
+    "reviews": 18000000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 700000 },
+      { "name": "2 star", "count": 800000 },
+      { "name": "3 star", "count": 1500000 },
+      { "name": "4 star", "count": 4000000 },
+      { "name": "5 star", "count": 11000000 }
+    ]
+  },
+  {
+    "image": "https://cdn.example.com/apps/notemate.png",
+    "title": "NoteMate",
+    "companyName": "Nimbus Labs",
+    "id": 11,
+    "description": "Take organized notes and sync across your devices.",
+    "size": 25,
+    "reviews": 850000,
+    "ratingAvg": 4.6,
+    "downloads": 10000000,
+    "ratings": [
+      { "name": "1 star", "count": 10000 },
+      { "name": "2 star", "count": 20000 },
+      { "name": "3 star", "count": 70000 },
+      { "name": "4 star", "count": 200000 },
+      { "name": "5 star", "count": 550000 }
+    ]
+  },
+  {
+    "image": "https://cdn.example.com/apps/taskflow.png",
+    "title": "TaskFlow",
+    "companyName": "Flow Systems",
+    "id": 12,
+    "description": "Manage your daily tasks and projects effectively.",
+    "size": 30,
+    "reviews": 600000,
+    "ratingAvg": 4.5,
+    "downloads": 8000000,
+    "ratings": [
+      { "name": "1 star", "count": 15000 },
+      { "name": "2 star", "count": 25000 },
+      { "name": "3 star", "count": 50000 },
+      { "name": "4 star", "count": 150000 },
+      { "name": "5 star", "count": 360000 }
+    ]
+  },
+  {
+    "image": "https://cdn.example.com/apps/fitpulse.png",
+    "title": "FitPulse",
+    "companyName": "PulseTech Ltd.",
+    "id": 13,
+    "description": "Track your workouts, nutrition, and fitness progress.",
+    "size": 55,
+    "reviews": 1100000,
+    "ratingAvg": 4.7,
+    "downloads": 20000000,
+    "ratings": [
+      { "name": "1 star", "count": 25000 },
+      { "name": "2 star", "count": 40000 },
+      { "name": "3 star", "count": 80000 },
+      { "name": "4 star", "count": 300000 },
+      { "name": "5 star", "count": 735000 }
+    ]
+  },
+  {
+    "image": "https://cdn.example.com/apps/fintrack.png",
+    "title": "FinTrack",
+    "companyName": "LedgerSoft",
+    "id": 14,
+    "description": "Smart finance tracking and budget planning tool.",
+    "size": 28,
+    "reviews": 550000,
+    "ratingAvg": 4.4,
+    "downloads": 9000000,
+    "ratings": [
+      { "name": "1 star", "count": 15000 },
+      { "name": "2 star", "count": 25000 },
+      { "name": "3 star", "count": 70000 },
+      { "name": "4 star", "count": 150000 },
+      { "name": "5 star", "count": 290000 }
+    ]
+  },
+  {
+    "image": "https://cdn.example.com/apps/langlearn.png",
+    "title": "LangLearn",
+    "companyName": "Polyglot Studios",
+    "id": 15,
+    "description": "Learn languages with fun lessons, games, and AI tutors.",
+    "size": 70,
+    "reviews": 1300000,
+    "ratingAvg": 4.8,
+    "downloads": 30000000,
+    "ratings": [
+      { "name": "1 star", "count": 30000 },
+      { "name": "2 star", "count": 40000 },
+      { "name": "3 star", "count": 90000 },
+      { "name": "4 star", "count": 250000 },
+      { "name": "5 star", "count": 920000 }
+    ]
+  },
+  {
+    "image": "https://cdn.example.com/apps/travelio.png",
+    "title": "Travelio",
+    "companyName": "Journey Tech",
+    "id": 16,
+    "description": "Plan and book your next trip with ease.",
+    "size": 65,
+    "reviews": 1500000,
+    "ratingAvg": 4.6,
+    "downloads": 25000000,
+    "ratings": [
+      { "name": "1 star", "count": 40000 },
+      { "name": "2 star", "count": 50000 },
+      { "name": "3 star", "count": 120000 },
+      { "name": "4 star", "count": 400000 },
+      { "name": "5 star", "count": 930000 }
+    ]
+  },
+  {
+    "image": "https://cdn.example.com/apps/pixelart.png",
+    "title": "PixelArt Studio",
+    "companyName": "Artify Labs",
+    "id": 17,
+    "description": "Create pixel-perfect artwork with advanced editing tools.",
+    "size": 80,
+    "reviews": 900000,
+    "ratingAvg": 4.7,
+    "downloads": 18000000,
+    "ratings": [
+      { "name": "1 star", "count": 15000 },
+      { "name": "2 star", "count": 20000 },
+      { "name": "3 star", "count": 60000 },
+      { "name": "4 star", "count": 250000 },
+      { "name": "5 star", "count": 555000 }
+    ]
+  },
+  {
+    "image": "https://cdn.example.com/apps/musicwave.png",
+    "title": "MusicWave",
+    "companyName": "Harmony Media",
+    "id": 18,
+    "description": "Listen to curated playlists and discover new artists daily.",
+    "size": 55,
+    "reviews": 2200000,
+    "ratingAvg": 4.6,
+    "downloads": 40000000,
+    "ratings": [
+      { "name": "1 star", "count": 60000 },
+      { "name": "2 star", "count": 70000 },
+      { "name": "3 star", "count": 150000 },
+      { "name": "4 star", "count": 500000 },
+      { "name": "5 star", "count": 1420000 }
+    ]
+  },
+  {
+    "image": "https://cdn.example.com/apps/weatherly.png",
+    "title": "Weatherly",
+    "companyName": "ClimaTech",
+    "id": 19,
+    "description": "Accurate weather forecasts and real-time radar updates.",
+    "size": 35,
+    "reviews": 900000,
+    "ratingAvg": 4.4,
+    "downloads": 15000000,
+    "ratings": [
+      { "name": "1 star", "count": 20000 },
+      { "name": "2 star", "count": 35000 },
+      { "name": "3 star", "count": 100000 },
+      { "name": "4 star", "count": 250000 },
+      { "name": "5 star", "count": 495000 }
+    ]
+  },
+  {
+    "image": "https://cdn.example.com/apps/readora.png",
+    "title": "Readora",
+    "companyName": "LitWorld",
+    "id": 20,
+    "description": "Your personal eBook reader with cloud sync and AI narration.",
+    "size": 40,
+    "reviews": 1200000,
+    "ratingAvg": 4.7,
+    "downloads": 22000000,
+    "ratings": [
+      { "name": "1 star", "count": 20000 },
+      { "name": "2 star", "count": 40000 },
+      { "name": "3 star", "count": 80000 },
+      { "name": "4 star", "count": 250000 },
+      { "name": "5 star", "count": 900000 }
+    ]
+  },
+  {
+    "image": "https://cdn.example.com/apps/mediplus.png",
+    "title": "MediPlus",
+    "companyName": "HealthSync",
+    "id": 21,
+    "description": "Track your health, schedule appointments, and store reports securely.",
+    "size": 60,
+    "reviews": 1000000,
+    "ratingAvg": 4.5,
+    "downloads": 20000000,
+    "ratings": [
+      { "name": "1 star", "count": 25000 },
+      { "name": "2 star", "count": 40000 },
+      { "name": "3 star", "count": 90000 },
+      { "name": "4 star", "count": 300000 },
+      { "name": "5 star", "count": 545000 }
+    ]
+  },
+  {
+    "image": "https://cdn.example.com/apps/studywise.png",
+    "title": "StudyWise",
+    "companyName": "EduSpark Ltd.",
+    "id": 22,
+    "description": "AI-based learning companion for students of all levels.",
+    "size": 50,
+    "reviews": 1600000,
+    "ratingAvg": 4.8,
+    "downloads": 25000000,
+    "ratings": [
+      { "name": "1 star", "count": 25000 },
+      { "name": "2 star", "count": 35000 },
+      { "name": "3 star", "count": 100000 },
+      { "name": "4 star", "count": 400000 },
+      { "name": "5 star", "count": 1100000 }
+    ]
+  },
+  {
+    "image": "https://cdn.example.com/apps/photopia.png",
+    "title": "Photopia",
+    "companyName": "Visionary Apps",
+    "id": 23,
+    "description": "Professional-grade photo editing made simple for everyone.",
+    "size": 85,
+    "reviews": 3000000,
+    "ratingAvg": 4.6,
+    "downloads": 50000000,
+    "ratings": [
+      { "name": "1 star", "count": 80000 },
+      { "name": "2 star", "count": 100000 },
+      { "name": "3 star", "count": 250000 },
+      { "name": "4 star", "count": 800000 },
+      { "name": "5 star", "count": 1770000 }
+    ]
+  },
+  {
+    "image": "https://cdn.example.com/apps/driveio.png",
+    "title": "DriveIO",
+    "companyName": "CloudNova",
+    "id": 24,
+    "description": "Store, sync, and share files securely across all your devices.",
+    "size": 65,
+    "reviews": 1400000,
+    "ratingAvg": 4.6,
+    "downloads": 30000000,
+    "ratings": [
+      { "name": "1 star", "count": 40000 },
+      { "name": "2 star", "count": 60000 },
+      { "name": "3 star", "count": 130000 },
+      { "name": "4 star", "count": 400000 },
+      { "name": "5 star", "count": 800000 }
+    ]
+  },
+  {
+    "image": "https://cdn.example.com/apps/chessarena.png",
+    "title": "Chess Arena",
+    "companyName": "Boardify Games",
+    "id": 25,
+    "description": "Play chess online and improve with AI-powered analysis.",
+    "size": 50,
+    "reviews": 2000000,
+    "ratingAvg": 4.7,
+    "downloads": 35000000,
+    "ratings": [
+      { "name": "1 star", "count": 30000 },
+      { "name": "2 star", "count": 50000 },
+      { "name": "3 star", "count": 150000 },
+      { "name": "4 star", "count": 500000 },
+      { "name": "5 star", "count": 1270000 }
+    ]
+  },
+  {
+    "image": "https://cdn.example.com/apps/foodify.png",
+    "title": "Foodify",
+    "companyName": "QuickEats",
+    "id": 26,
+    "description": "Order food online from nearby restaurants quickly.",
+    "size": 55,
+    "reviews": 1800000,
+    "ratingAvg": 4.4,
+    "downloads": 40000000,
+    "ratings": [
+      { "name": "1 star", "count": 70000 },
+      { "name": "2 star", "count": 90000 },
+      { "name": "3 star", "count": 200000 },
+      { "name": "4 star", "count": 600000 },
+      { "name": "5 star", "count": 840000 }
+    ]
+  },
+  {
+    "image": "https://cdn.example.com/apps/soundscape.png",
+    "title": "SoundScape",
+    "companyName": "Harmony Works",
+    "id": 27,
+    "description": "Relax with calming soundscapes and meditation tracks.",
+    "size": 40,
+    "reviews": 900000,
+    "ratingAvg": 4.8,
+    "downloads": 15000000,
+    "ratings": [
+      { "name": "1 star", "count": 10000 },
+      { "name": "2 star", "count": 20000 },
+      { "name": "3 star", "count": 40000 },
+      { "name": "4 star", "count": 200000 },
+      { "name": "5 star", "count": 630000 }
+    ]
+  },
+  {
+    "image": "https://cdn.example.com/apps/eventhub.png",
+    "title": "EventHub",
+    "companyName": "Hubify Global",
+    "id": 28,
+    "description": "Find and book tickets for concerts, events, and shows near you.",
+    "size": 50,
+    "reviews": 1200000,
+    "ratingAvg": 4.3,
+    "downloads": 22000000,
+    "ratings": [
+      { "name": "1 star", "count": 40000 },
+      { "name": "2 star", "count": 50000 },
+      { "name": "3 star", "count": 150000 },
+      { "name": "4 star", "count": 400000 },
+      { "name": "5 star", "count": 610000 }
+    ]
+  },
+  {
+    "image": "https://cdn.example.com/apps/ecoalert.png",
+    "title": "EcoAlert",
+    "companyName": "GreenFuture Labs",
+    "id": 29,
+    "description": "Get environmental news and track your carbon footprint.",
+    "size": 38,
+    "reviews": 600000,
+    "ratingAvg": 4.6,
+    "downloads": 10000000,
+    "ratings": [
+      { "name": "1 star", "count": 10000 },
+      { "name": "2 star", "count": 20000 },
+      { "name": "3 star", "count": 50000 },
+      { "name": "4 star", "count": 150000 },
+      { "name": "5 star", "count": 370000 }
+    ]
+  },
+  {
+    "image": "https://cdn.example.com/apps/mindzen.png",
+    "title": "MindZen",
+    "companyName": "CalmTech",
+    "id": 30,
+    "description": "Meditation and mindfulness for stress relief and focus.",
+    "size": 45,
+    "reviews": 1600000,
+    "ratingAvg": 4.9,
+    "downloads": 25000000,
+    "ratings": [
+      { "name": "1 star", "count": 20000 },
+      { "name": "2 star", "count": 30000 },
+      { "name": "3 star", "count": 70000 },
+      { "name": "4 star", "count": 200000 },
+      { "name": "5 star", "count": 1310000 }
+    ]
+  }
+]

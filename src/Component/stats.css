@@ -1,0 +1,11 @@
+@media screen and (max-width: 992px){
+    .stats-div{
+        width: auto;
+    }
+    .stats-title{
+        width: auto;
+    }
+    .stats-rate{
+        display: block;
+    }
+}
