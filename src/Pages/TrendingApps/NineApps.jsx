@@ -1,6 +1,7 @@
 import React from 'react';
 import download from '../../assets/icon-downloads.png'
 import rating from '../../assets/icon-ratings.png'
+import { Link } from 'react-router';
 
 
 
@@ -9,6 +10,7 @@ const NineApps = ({apps}) => {
     
     return (
             
+                <Link to = {`/appDetails/${apps.id}`}>
                 <div className=' w-[300px] p-4 rounded-md shadow-2xl'>
 
                 <img className='mx-auto rounded-md mb-2 w-[300px]' src={apps.image} alt="" />
@@ -21,6 +23,7 @@ const NineApps = ({apps}) => {
                 </div>
 
                 </div>
+                </Link>
 
             
           

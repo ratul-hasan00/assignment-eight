@@ -1,14 +1,13 @@
 [
   {
-    "image": "https://cdn.example.com/apps/spotify.png",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuMv_N2gVRdPfb-Tjd0jL9I9ZDD3hSDo9XXA&s",
     "title": "Spotify",
     "companyName": "Spotify AB",
     "id": 1,
-    "description": "Stream millions of songs and podcasts instantly.",
-    "size": 45,
-    "reviews": 12500000,
+    "description": "Spotify is the world's leading music and podcast streaming platform that gives you instant access to millions of songs, albums, and shows from artists all around the world. Enjoy personalized playlists, discover new music through smart recommendations, and listen to your favorite tracks anytime, anywhere. With Spotify Premium, you can stream ad-free, download music for offline listening, and enjoy high-quality audio. Whether you're relaxing, working out, studying, or commuting, Spotify has the perfect soundtrack for every moment.",
+    "reviews": 125,
     "ratingAvg": 4.7,
-    "downloads": 500000000,
+    "downloads": 500,
     "ratings": [
       { "name": "1 star", "count": 250000 },
       { "name": "2 star", "count": 400000 },
@@ -18,15 +17,15 @@
     ]
   },
   {
-    "image": "https://cdn.example.com/apps/instagram.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png",
     "title": "Instagram",
     "companyName": "Meta Platforms Inc.",
     "id": 2,
-    "description": "Share your moments with the world through photos and stories.",
+    "description": "Instagram is a popular social media platform where you can capture, edit, and share your favorite moments through photos, videos, and stories. Connect with friends, follow your favorite creators, explore trending content, and express yourself creatively with Reels and filters. Whether for personal sharing or growing your brand, Instagram makes it easy to stay connected and discover what's happening around the world.",
     "size": 60,
-    "reviews": 24000000,
+    "reviews": 24,
     "ratingAvg": 4.4,
-    "downloads": 1000000000,
+    "downloads": 100,
     "ratings": [
       { "name": "1 star", "count": 900000 },
       { "name": "2 star", "count": 1500000 },
@@ -36,15 +35,15 @@
     ]
   },
   {
-    "image": "https://cdn.example.com/apps/whatsapp.png",
+    "image": "https://play-lh.googleusercontent.com/bYtqbOcTYOlgc6gqZ2rwb8lptHuwlNE75zYJu6Bn076-hTmvd96HH-6v7S0YUAAJXoJN",
     "title": "WhatsApp Messenger",
     "companyName": "Meta Platforms Inc.",
     "id": 3,
-    "description": "Fast and secure messaging and calls, completely free.",
+    "description": "WhatsApp Messenger is a fast, simple, and secure messaging app that lets you stay connected with friends and family for free. Send text messages, voice notes, photos, videos, and documents instantly. Enjoy high-quality voice and video calls, create group chats, and share moments with Status updates — all protected by end-to-end encryption. With WhatsApp, communication is private, reliable, and always at your fingertips.",
     "size": 35,
-    "reviews": 18000000,
+    "reviews": 18,
     "ratingAvg": 4.6,
-    "downloads": 5000000000,
+    "downloads": 500,
     "ratings": [
       { "name": "1 star", "count": 500000 },
       { "name": "2 star", "count": 800000 },
@@ -54,15 +53,15 @@
     ]
   },
   {
-    "image": "https://cdn.example.com/apps/tiktok.png",
+    "image": "https://play-lh.googleusercontent.com/BmUViDVOKNJe0GYJe22hsr7juFndRVbvr1fGmHGXqHfJjNAXjd26bfuGRQpVrpJ6YbA",
     "title": "TikTok",
     "companyName": "ByteDance Ltd.",
     "id": 4,
-    "description": "Create and watch short, engaging videos with music and filters.",
+    "description": "TikTok is a short-form video platform where creativity and entertainment come together. Discover, create, and share fun videos with music, filters, and effects. Explore trending content, follow your favorite creators, and express yourself through dance, comedy, lifestyle, and more. With TikTok’s powerful editing tools and personalized feed, you can make every second count and join a global community of creators.",
     "size": 75,
-    "reviews": 22000000,
+    "reviews": 22,
     "ratingAvg": 4.5,
-    "downloads": 3000000000,
+    "downloads": 300,
     "ratings": [
       { "name": "1 star", "count": 800000 },
       { "name": "2 star", "count": 1000000 },
@@ -72,15 +71,15 @@
     ]
   },
   {
-    "image": "https://cdn.example.com/apps/telegram.png",
+    "image": "https://play-lh.googleusercontent.com/ZU9cSsyIJZo6Oy7HTHiEPwZg0m2Crep-d5ZrfajqtsH-qgUXSqKpNA2FpPDTn-7qA5Q",
     "title": "Telegram",
     "companyName": "Telegram FZ-LLC",
     "id": 5,
-    "description": "Cloud-based messaging app focused on speed and privacy.",
+    "description": "Telegram is a fast, secure, and cloud-based messaging app that lets you stay connected across all your devices. Send messages, photos, videos, and files of any type without limits. Enjoy group chats, channels, and powerful privacy settings with end-to-end encryption. With Telegram’s speed, reliability, and feature-rich design, you can communicate and share freely with individuals or communities around the world.",
     "size": 40,
-    "reviews": 7000000,
+    "reviews": 70,
     "ratingAvg": 4.8,
-    "downloads": 1000000000,
+    "downloads": 100,
     "ratings": [
       { "name": "1 star", "count": 200000 },
       { "name": "2 star", "count": 300000 },
@@ -90,15 +89,15 @@
     ]
   },
   {
-    "image": "https://cdn.example.com/apps/netflix.png",
+    "image": "https://play-lh.googleusercontent.com/TBRwjS_qfJCSj1m7zZB93FnpJM5fSpMA_wUlFDLxWAb45T9RmwBvQd5cWR5viJJOhkI",
     "title": "Netflix",
     "companyName": "Netflix Inc.",
     "id": 6,
-    "description": "Stream movies, shows, and Netflix Originals anytime.",
+     "description": "Netflix is the world’s leading streaming service for movies, TV shows, documentaries, and exclusive originals. Watch unlimited entertainment anytime, anywhere — on your phone, tablet, TV, or laptop. Enjoy personalized recommendations, download shows for offline viewing, and explore content across every genre. With Netflix, your favorite stories are always just a tap away.",
     "size": 90,
-    "reviews": 11000000,
+    "reviews": 11,
     "ratingAvg": 4.5,
-    "downloads": 1000000000,
+    "downloads": 100,
     "ratings": [
       { "name": "1 star", "count": 700000 },
       { "name": "2 star", "count": 900000 },
@@ -108,15 +107,15 @@
     ]
   },
   {
-    "image": "https://cdn.example.com/apps/youtube.png",
+    "image": "https://play-lh.googleusercontent.com/6am0i3walYwNLc08QOOhRJttQENNGkhlKajXSERf3JnPVRQczIyxw2w3DxeMRTOSdsY",
     "title": "YouTube",
     "companyName": "Google LLC",
     "id": 7,
-    "description": "Watch, upload, and share videos with the global community.",
+    "description": "YouTube is the world’s largest video-sharing platform where you can watch, upload, and share videos from creators around the globe. Discover music videos, vlogs, tutorials, live streams, and trending content tailored to your interests. Subscribe to your favorite channels, create playlists, and enjoy seamless video streaming anytime, anywhere. With YouTube, entertainment, learning, and creativity are always within reach.",
     "size": 85,
-    "reviews": 32000000,
+    "reviews": 32,
     "ratingAvg": 4.6,
-    "downloads": 10000000000,
+    "downloads": 100,
     "ratings": [
       { "name": "1 star", "count": 1200000 },
       { "name": "2 star", "count": 1500000 },
@@ -126,15 +125,15 @@
     ]
   },
   {
-    "image": "https://cdn.example.com/apps/zoom.png",
+    "image": "https://play-lh.googleusercontent.com/yZsmiNjmji3ZoOuLthoVvptLB9cZ0vCmitcky4OUXNcEFV3IEQkrBD2uu5kuWRF5_ERA",
     "title": "Zoom Meetings",
     "companyName": "Zoom Video Communications",
     "id": 8,
-    "description": "Video conferencing and collaboration made simple.",
+    "description": "Zoom is a leading video conferencing and communication platform that allows you to connect with anyone, anywhere. Host or join high-quality video and audio meetings, webinars, and group chats with ease. Share screens, collaborate in real-time, and record sessions for later use. Whether for work, school, or personal meetings, Zoom makes remote communication seamless, reliable, and secure.",
     "size": 60,
-    "reviews": 8000000,
+    "reviews": 80,
     "ratingAvg": 4.3,
-    "downloads": 1000000000,
+    "downloads": 100,
     "ratings": [
       { "name": "1 star", "count": 500000 },
       { "name": "2 star", "count": 600000 },
@@ -144,15 +143,15 @@
     ]
   },
   {
-    "image": "https://cdn.example.com/apps/canva.png",
+    "image": "https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxo4K81Ei7WzcnqEk8W.MgwZFE_jBn46Q0eZmYS1jqh9hsP2yct.ANJrdxy.La13GX7IADGcPOztqti6H6DAjzvg-&format=source",
     "title": "Canva",
     "companyName": "Canva Pty Ltd.",
     "id": 9,
-    "description": "Design anything — from social media posts to resumes — easily.",
+    "description": "Canva is a user-friendly graphic design platform that allows anyone to create stunning visuals, presentations, social media posts, posters, and more. With thousands of templates, easy drag-and-drop tools, and access to millions of images, icons, and fonts, Canva makes design simple and accessible for everyone. Collaborate with teams, customize designs, and bring your creative ideas to life effortlessly.",
     "size": 70,
-    "reviews": 6500000,
+    "reviews": 65,
     "ratingAvg": 4.8,
-    "downloads": 500000000,
+    "downloads": 500,
     "ratings": [
       { "name": "1 star", "count": 150000 },
       { "name": "2 star", "count": 200000 },
@@ -162,15 +161,15 @@
     ]
   },
   {
-    "image": "https://cdn.example.com/apps/amazon.png",
+    "image": "https://tinuiti.com/wp-content/uploads/2023/12/Amazon-Shopping-App-Logo-Android.png",
     "title": "Amazon Shopping",
     "companyName": "Amazon Mobile LLC",
     "id": 10,
-    "description": "Shop millions of products at great prices anytime.",
+     "description": "Amazon Shopping is a convenient online marketplace that lets you browse, discover, and buy millions of products from around the world. Enjoy personalized recommendations, secure payment options, fast delivery, and easy order tracking. From electronics and fashion to books and groceries, Amazon makes shopping simple, reliable, and accessible anytime, anywhere.",
     "size": 60,
-    "reviews": 18000000,
+    "reviews": 18,
     "ratingAvg": 4.5,
-    "downloads": 1000000000,
+    "downloads": 100,
     "ratings": [
       { "name": "1 star", "count": 700000 },
       { "name": "2 star", "count": 800000 },
@@ -180,15 +179,15 @@
     ]
   },
   {
-    "image": "https://cdn.example.com/apps/notemate.png",
+    "image": "https://play-lh.googleusercontent.com/DWcTP1gZzLcnqD405h8N--FbOrqhA6cvEVLzh5UI7Eoc2zzXFxipav25sYh7dPKAF1MSmvEsIVuEXdKz-v2wWg",
     "title": "NoteMate",
     "companyName": "Nimbus Labs",
     "id": 11,
-    "description": "Take organized notes and sync across your devices.",
+    "description": "NoteMate is a versatile note-taking app designed to help you efficiently capture, organize, and manage your ideas, tasks, and study materials. Whether you're a student, professional, or creative, NoteMate offers a range of features to enhance your productivity. With support for text, voice memos, images, and documents, you can create rich, multimedia notes. The app's intelligent organizational capabilities, including smart categorization, tagging, and robust search functions, ensure that your notes are always accessible. Real-time collaboration allows for seamless sharing and editing, making it ideal for team projects and study groups. NoteMate also offers offline access, encrypted storage, and cross-device synchronization, ensuring your notes are secure and available whenever you need them.",
     "size": 25,
-    "reviews": 850000,
+    "reviews": 85,
     "ratingAvg": 4.6,
-    "downloads": 10000000,
+    "downloads": 100,
     "ratings": [
       { "name": "1 star", "count": 10000 },
       { "name": "2 star", "count": 20000 },
@@ -198,15 +197,15 @@
     ]
   },
   {
-    "image": "https://cdn.example.com/apps/taskflow.png",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnx5PUZpS5WvwJdWU0Qi7oQaYNXyFpMkHR9g&s",
     "title": "TaskFlow",
     "companyName": "Flow Systems",
     "id": 12,
-    "description": "Manage your daily tasks and projects effectively.",
+    "description": "TaskFlow is a modern task management app designed to streamline your workflow with intuitive features and a clean interface. Organize tasks across multiple projects, manage due dates, and utilize subtasks and attachments for comprehensive task tracking. With both List and Board (Kanban) layouts, you can visualize your tasks in the way that suits you best. Enhance focus with the built-in Pomodoro timer and stay on top of your tasks with smart notifications and reminders. Available on Mac, iPad, and iPhone, TaskFlow ensures your tasks are always within reach, helping you stay organized and productive.",
     "size": 30,
-    "reviews": 600000,
+    "reviews": 60,
     "ratingAvg": 4.5,
-    "downloads": 8000000,
+    "downloads": 80,
     "ratings": [
       { "name": "1 star", "count": 15000 },
       { "name": "2 star", "count": 25000 },
@@ -216,15 +215,15 @@
     ]
   },
   {
-    "image": "https://cdn.example.com/apps/fitpulse.png",
+    "image": "https://play-lh.googleusercontent.com/blZS6cfN9O64_U1J_oJJoabDnrdaMCMWGmgCmQ89Ef_5U29QrRjCQnjxsBIUmiMGcA",
     "title": "FitPulse",
     "companyName": "PulseTech Ltd.",
     "id": 13,
-    "description": "Track your workouts, nutrition, and fitness progress.",
+    "description": "FitPulse is your personalized AI-powered fitness companion, offering tailored workout plans to help you achieve your health and fitness goals. Whether you're aiming to lose weight, build muscle, or enhance flexibility, FitPulse provides customized routines that adapt to your fitness level and preferences. With a diverse exercise library, including pilates, calisthenics, and chair workouts, each accompanied by step-by-step instructions and video demos, FitPulse ensures you perform exercises with correct form and safety. The app also features a smart AI coach available 24/7 to guide you through your fitness journey, offering motivation and support whenever you need it.",
     "size": 55,
-    "reviews": 1100000,
+    "reviews": 11,
     "ratingAvg": 4.7,
-    "downloads": 20000000,
+    "downloads": 20,
     "ratings": [
       { "name": "1 star", "count": 25000 },
       { "name": "2 star", "count": 40000 },
@@ -234,15 +233,15 @@
     ]
   },
   {
-    "image": "https://cdn.example.com/apps/fintrack.png",
+    "image": "https://s-group.ua/wp-content/uploads/fin-track-finance-app-preview.webp",
     "title": "FinTrack",
     "companyName": "LedgerSoft",
     "id": 14,
-    "description": "Smart finance tracking and budget planning tool.",
+    "description": "FinTrack is an intuitive personal finance and budgeting app designed to help you take control of your financial health. With FinTrack, you can effortlessly track your daily expenses, manage income, and categorize transactions for better organization. Visualize your spending habits through interactive pie charts and gain insights into your financial patterns. The app also allows you to set budgets, plan for future expenses, and stay on top of your financial goals. Whether you're managing personal finances, household budgets, or small business expenses, FinTrack provides a comprehensive solution to help you achieve financial freedom.",
     "size": 28,
-    "reviews": 550000,
+    "reviews": 55,
     "ratingAvg": 4.4,
-    "downloads": 9000000,
+    "downloads": 90,
     "ratings": [
       { "name": "1 star", "count": 15000 },
       { "name": "2 star", "count": 25000 },
@@ -252,15 +251,15 @@
     ]
   },
   {
-    "image": "https://cdn.example.com/apps/langlearn.png",
+    "image": "https://play-lh.googleusercontent.com/rJaXm_Owjbz7T52kyrjjeAxLlnCgfQONhKi15Z8ksDz5ZCN24WmzhFfWZcPoSiFs4CCHpEWJ2WBpVI4UTjgYTQ",
     "title": "LangLearn",
     "companyName": "Polyglot Studios",
     "id": 15,
-    "description": "Learn languages with fun lessons, games, and AI tutors.",
+    "description": "LangLearn is an AI-powered language learning app designed to help users speak English and Spanish fluently through real-time conversations and personalized feedback. Whether you're a beginner, a professional, or a traveler, LangLearn offers tailored learning paths that adapt to your level and goals. Engage in practical scenarios like ordering food, job interviews, or giving presentations, and receive instant corrections on pronunciation, grammar, and vocabulary. With features like CEFR-aligned lessons, voice review, and progress tracking, LangLearn makes language learning interactive, effective, and accessible anytime, anywhere.",
     "size": 70,
-    "reviews": 1300000,
+    "reviews": 13,
     "ratingAvg": 4.8,
-    "downloads": 30000000,
+    "downloads": 30,
     "ratings": [
       { "name": "1 star", "count": 30000 },
       { "name": "2 star", "count": 40000 },
@@ -270,15 +269,15 @@
     ]
   },
   {
-    "image": "https://cdn.example.com/apps/travelio.png",
+    "image": "https://play-lh.googleusercontent.com/uGnul50TqqltLEKORiCMLUJgX5eumSq6M6ExPzByxaAlU3G_eolE2kTrJsdJo5WDrLn9NanoIYsHppgNP8K2QQ",
     "title": "Travelio",
     "companyName": "Journey Tech",
     "id": 16,
-    "description": "Plan and book your next trip with ease.",
+    "description": "Travelio is a comprehensive apartment and house rental platform offering flexible leasing options across Indonesia. With over 18,000 properties available in 16 cities, users can rent fully furnished or unfurnished units on a daily, monthly, or yearly basis. The app provides immediate check-in within 2 hours after booking, property showings without additional fees for rentals of 4 months or longer, and various promotional discounts. Flexible payment methods are available, including rent payments without a credit card. Travelio also offers property management services for owners looking to list their vacant units and generate passive income. Whether you're seeking a short-term stay or a long-term residence, Travelio caters to both leisure and business travelers with its diverse accommodation options.",
     "size": 65,
-    "reviews": 1500000,
+    "reviews": 15,
     "ratingAvg": 4.6,
-    "downloads": 25000000,
+    "downloads": 25,
     "ratings": [
       { "name": "1 star", "count": 40000 },
       { "name": "2 star", "count": 50000 },
@@ -288,15 +287,15 @@
     ]
   },
   {
-    "image": "https://cdn.example.com/apps/pixelart.png",
+    "image": "https://play-lh.googleusercontent.com/IcEWj9GdJhsnzYP0lsJEanmmMvvwYNKcKLan6OGZyghOTfdHKuuDKj_zx5T2qdbvUl0",
     "title": "PixelArt Studio",
     "companyName": "Artify Labs",
     "id": 17,
-    "description": "Create pixel-perfect artwork with advanced editing tools.",
+    "description": "PixelArt Studio is a versatile pixel art editor designed for both beginners and professionals. Create stunning pixel art, animations, and game assets with ease. The app offers a user-friendly interface, layer support, and a wide range of tools to bring your creative ideas to life. Whether you're designing characters, backgrounds, or sprites, PixelArt Studio provides the features you need to craft detailed pixel art masterpieces.",
     "size": 80,
-    "reviews": 900000,
+    "reviews": 90,
     "ratingAvg": 4.7,
-    "downloads": 18000000,
+    "downloads": 18,
     "ratings": [
       { "name": "1 star", "count": 15000 },
       { "name": "2 star", "count": 20000 },
@@ -306,15 +305,15 @@
     ]
   },
   {
-    "image": "https://cdn.example.com/apps/musicwave.png",
+    "image": "https://play-lh.googleusercontent.com/GjQ8KvMikEHOBUnETxsRBMO8E7t5XDDZT-gMpb1pkECWEY_HdWv9rPRBjgWra1VKN0c=w240-h480-rw",
     "title": "MusicWave",
     "companyName": "Harmony Media",
     "id": 18,
-    "description": "Listen to curated playlists and discover new artists daily.",
+    "description": "MusicWave is a versatile music player offering a vast library of over 100 million songs across various genres, including Pop, Rock, Afrobeats, Afropop, and Reggae. Users can stream and download high-quality MP3 tracks, create and manage custom playlists, and enjoy features like background playback, shuffle, repeat, and a sleep timer. The app provides curated playlists, trending music, and personalized recommendations to enhance your listening experience. Whether you're online or offline, MusicWave ensures you have access to your favorite music anytime, anywhere.",
     "size": 55,
-    "reviews": 2200000,
+    "reviews": 22,
     "ratingAvg": 4.6,
-    "downloads": 40000000,
+    "downloads": 40,
     "ratings": [
       { "name": "1 star", "count": 60000 },
       { "name": "2 star", "count": 70000 },
@@ -324,15 +323,15 @@
     ]
   },
   {
-    "image": "https://cdn.example.com/apps/weatherly.png",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/2e/ce/ef2ece3f-f076-da76-4950-c3afb1aafa2c/AppIcon-0-0-85-220-0-0-4-0-2x.png/1200x630bb.png",
     "title": "Weatherly",
     "companyName": "ClimaTech",
     "id": 19,
-    "description": "Accurate weather forecasts and real-time radar updates.",
+    "description": "Weatherly is a lightweight, privacy-focused Chrome extension that provides real-time weather updates directly in your browser. With Weatherly, you can access current conditions, hourly and 7-day forecasts, atmospheric data like humidity, pressure, and cloud cover, as well as astronomy details such as moon phases and sunrise/sunset times. The extension offers a sleek, easy-to-use interface, supports multiple locations, and allows for customization to suit your preferences. Stay prepared with instant weather insights anytime, anywhere, without the need to open a new tab or be directed to another page.",
     "size": 35,
-    "reviews": 900000,
+    "reviews": 90,
     "ratingAvg": 4.4,
-    "downloads": 15000000,
+    "downloads": 15,
     "ratings": [
       { "name": "1 star", "count": 20000 },
       { "name": "2 star", "count": 35000 },
@@ -342,15 +341,15 @@
     ]
   },
   {
-    "image": "https://cdn.example.com/apps/readora.png",
+    "image": "https://play-lh.googleusercontent.com/gyv0SLIUnVVzZLJFl7HZ_dlQRMpvSj01Fk9wuTlzYpkhORaQWkl55aP1Odm2bDk6i-fm",
     "title": "Readora",
     "companyName": "LitWorld",
     "id": 20,
-    "description": "Your personal eBook reader with cloud sync and AI narration.",
+    "description": "Readora is a versatile and ad-free eBook reader that supports a wide range of formats, including EPUB, PDF, MOBI, DOCX, FB2, DJVU, and more. It offers a clean, offline reading experience without requiring registration. Key features include text-to-speech (TTS) functionality, customizable reading settings, and the ability to organize books into collections. ReadEra also allows synchronization of reading progress, bookmarks, and quotes across devices via Google Drive with the Premium version. Whether you're reading novels, academic papers, or comics, ReadEra provides a seamless and enjoyable reading experience.",
     "size": 40,
-    "reviews": 1200000,
+    "reviews": 12,
     "ratingAvg": 4.7,
-    "downloads": 22000000,
+    "downloads": 22,
     "ratings": [
       { "name": "1 star", "count": 20000 },
       { "name": "2 star", "count": 40000 },
@@ -360,15 +359,15 @@
     ]
   },
   {
-    "image": "https://cdn.example.com/apps/mediplus.png",
+    "image": "https://play-lh.googleusercontent.com/dq_62kYD7UizboA2clGp1PmtjZQ_UDYdjwgxWwstlb-U5ZcmNeECw3n4lC6arqnYWLw4",
     "title": "MediPlus",
     "companyName": "HealthSync",
     "id": 21,
-    "description": "Track your health, schedule appointments, and store reports securely.",
+    "description": "Mediplus is a comprehensive health management app designed to empower users with easy access to their medical aid benefits and healthcare services. With Mediplus, you can track your membership details, generate 'Confirmation of Benefits' documentation, and access a vast network of healthcare providers. The app offers features such as viewing and managing health plan information, submitting and tracking claims, and locating nearby clinics using geolocation. Additionally, Mediplus provides a virtual health card for seamless provider access and keeps you connected with the latest healthcare updates through integrated social media channels. Whether you're at home or on the go, Mediplus puts your health management at your fingertips.",
     "size": 60,
-    "reviews": 1000000,
+    "reviews": 10,
     "ratingAvg": 4.5,
-    "downloads": 20000000,
+    "downloads": 20,
     "ratings": [
       { "name": "1 star", "count": 25000 },
       { "name": "2 star", "count": 40000 },
@@ -378,15 +377,15 @@
     ]
   },
   {
-    "image": "https://cdn.example.com/apps/studywise.png",
+    "image": "https://play-lh.googleusercontent.com/NH4hyHm1p8w6JS_4HiDuZwKPPNxF2_X8DcLDTw0gl3t4TseHd5-8HFSP8XtdGv8a7eQ",
     "title": "StudyWise",
     "companyName": "EduSpark Ltd.",
     "id": 22,
-    "description": "AI-based learning companion for students of all levels.",
+    "description": "StudyWise is an AI-powered educational platform designed to enhance learning through personalized support and smart study tools. Whether you're an international student planning to study in Australia or someone seeking to optimize your academic performance, StudyWise offers tailored assistance to meet your needs. The app provides a comprehensive course search engine, AI-generated SMART Notes, adaptive quizzes, personalized class chatbots, and homework help, all accessible 24/7. Trusted by over 80 top Australian institutes, StudyWise ensures that students have the resources and guidance necessary to succeed in their educational journey.",
     "size": 50,
-    "reviews": 1600000,
+    "reviews": 16,
     "ratingAvg": 4.8,
-    "downloads": 25000000,
+    "downloads": 25,
     "ratings": [
       { "name": "1 star", "count": 25000 },
       { "name": "2 star", "count": 35000 },
@@ -396,15 +395,15 @@
     ]
   },
   {
-    "image": "https://cdn.example.com/apps/photopia.png",
+    "image": "https://www.photopea.com/promo/icon512.png",
     "title": "Photopia",
     "companyName": "Visionary Apps",
     "id": 23,
-    "description": "Professional-grade photo editing made simple for everyone.",
+    "description": "Photopea is a free, browser-based image editor that offers advanced tools for both raster and vector graphics. Compatible with a wide range of file formats, including PSD, AI, SVG, and more, Photopea allows users to perform tasks such as photo retouching, graphic design, and web design without the need for expensive software. Its interface closely resembles that of Adobe Photoshop, making it an ideal choice for users familiar with Photoshop's workflow. With features like layers, masks, smart objects, filters, and vector support, Photopea provides a comprehensive editing experience accessible from any modern web browser.",
     "size": 85,
-    "reviews": 3000000,
+    "reviews": 30,
     "ratingAvg": 4.6,
-    "downloads": 50000000,
+    "downloads": 50,
     "ratings": [
       { "name": "1 star", "count": 80000 },
       { "name": "2 star", "count": 100000 },
@@ -414,15 +413,15 @@
     ]
   },
   {
-    "image": "https://cdn.example.com/apps/driveio.png",
-    "title": "DriveIO",
+    "image": "https://play-lh.googleusercontent.com/3XzsEFJzPuR2DBqHU7GU4KysRMjQg3Qc3jAKMG5CqGNh-CsNLBIv-eNQclettiE2O8c",
+    "title": "Drive Eye",
     "companyName": "CloudNova",
     "id": 24,
-    "description": "Store, sync, and share files securely across all your devices.",
+    "description": "Driveye Dash Cam is a cutting-edge vehicle camera system designed to provide comprehensive 360° coverage and advanced features for enhanced driving safety and convenience. With true 4K front recording and additional cameras capturing rear, side, and interior views, Driveye ensures every angle is monitored. Key features include: \n\n- **360° Coverage**: Four cameras offering full vehicle protection, capturing front, rear, left, and right views. \n- **4K UHD Recording**: High-definition video quality for clear and detailed footage. \n- **5G Wi-Fi & GPS**: Fast data transfer and precise location tracking. \n- **Voice Control**: Hands-free operation for safer driving. \n- **24/7 Parking Monitoring**: Continuous surveillance even when the vehicle is parked. \n- **Advanced Driver Assistance System (ADAS)**: Lane departure and collision warnings to assist in safe driving. \n\nDriveye Dash Cam is the ideal companion for drivers seeking to enhance their on-road safety and capture critical moments with clarity.",
     "size": 65,
-    "reviews": 1400000,
+    "reviews": 14,
     "ratingAvg": 4.6,
-    "downloads": 30000000,
+    "downloads": 30,
     "ratings": [
       { "name": "1 star", "count": 40000 },
       { "name": "2 star", "count": 60000 },
@@ -432,15 +431,15 @@
     ]
   },
   {
-    "image": "https://cdn.example.com/apps/chessarena.png",
+    "image": "https://play-lh.googleusercontent.com/uQwk5VKaFsHYG2hBN19c40HAdVU1l5sOsneFXND68McK7YeOdrIEv4z_fc1vBjsCZw=w240-h480-rw",
     "title": "Chess Arena",
     "companyName": "Boardify Games",
     "id": 25,
-    "description": "Play chess online and improve with AI-powered analysis.",
+    "description": "Chess Arena, officially known as FIDE Online Arena, is the exclusive online chess platform officially recognized by the International Chess Federation (FIDE). Whether you're a casual player or an aspiring grandmaster, connect with players globally and enhance your skills. Play for free or upgrade for an official online rating and earn prestigious titles displayed on your FIDE profile. Start your PRO chess journey now!",
     "size": 50,
-    "reviews": 2000000,
+    "reviews": 20,
     "ratingAvg": 4.7,
-    "downloads": 35000000,
+    "downloads": 35,
     "ratings": [
       { "name": "1 star", "count": 30000 },
       { "name": "2 star", "count": 50000 },
@@ -450,15 +449,15 @@
     ]
   },
   {
-    "image": "https://cdn.example.com/apps/foodify.png",
+    "image": "https://play-lh.googleusercontent.com/z7QKFNBFvcwIZXtqrK7lnyyp7nzpPGCF7gCg0FyZ81PXXivycC_4vLqzwQ1wLACZ7Jg",
     "title": "Foodify",
     "companyName": "QuickEats",
     "id": 26,
-    "description": "Order food online from nearby restaurants quickly.",
+    "description": "Foodify is a versatile app designed to enhance your culinary experience, whether you're looking to order food, discover new recipes, or connect with local food influencers. With Foodify, you can enjoy quick and reliable food delivery from top local restaurants, explore a wide variety of cuisines, and manage your orders with ease. The app also offers features like live order tracking, multiple payment options, and hygiene-safe deliveries. For culinary enthusiasts, Foodify provides AI-powered recipe recommendations, personalized meal planning, and a vibrant community to share and discover recipes. Whether you're craving a meal or seeking culinary inspiration, Foodify is your go-to app for all things food.",
     "size": 55,
-    "reviews": 1800000,
+    "reviews": 18,
     "ratingAvg": 4.4,
-    "downloads": 40000000,
+    "downloads": 40,
     "ratings": [
       { "name": "1 star", "count": 70000 },
       { "name": "2 star", "count": 90000 },
@@ -468,15 +467,15 @@
     ]
   },
   {
-    "image": "https://cdn.example.com/apps/soundscape.png",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzUFNAYvFO1UPUxWoNzQdZcxV0zkclXsiTuw&s",
     "title": "SoundScape",
     "companyName": "Harmony Works",
     "id": 27,
-    "description": "Relax with calming soundscapes and meditation tracks.",
+    "description": "Soundscape is a versatile audio application designed to enhance your well-being by providing a diverse range of soundscapes tailored to various moods and activities. Whether you're seeking relaxation, focus, or a peaceful night's sleep, Soundscape offers a curated collection of ambient sounds, including nature sounds, white noise, and instrumental music. The app features customizable sound mixing, app blocking to minimize distractions, and immersive audio experiences to help you fall asleep faster, stay focused longer, and feel more in control. With its user-friendly interface and science-backed sound design, Soundscape is your go-to companion for creating a calming and productive environment.",
     "size": 40,
-    "reviews": 900000,
+    "reviews": 90,
     "ratingAvg": 4.8,
-    "downloads": 15000000,
+    "downloads": 15,
     "ratings": [
       { "name": "1 star", "count": 10000 },
       { "name": "2 star", "count": 20000 },
@@ -486,15 +485,15 @@
     ]
   },
   {
-    "image": "https://cdn.example.com/apps/eventhub.png",
+    "image": "https://play-lh.googleusercontent.com/fLYH2EuSpBCC7zgyup7PZC3gH4vWIik_NB5rWHMXcM_VWWLcOAsRwRVDlhVRSySijyw=w240-h480-rw",
     "title": "EventHub",
     "companyName": "Hubify Global",
     "id": 28,
-    "description": "Find and book tickets for concerts, events, and shows near you.",
+    "description": "EventHub is a comprehensive B2B event marketing platform designed to streamline the planning, execution, and analysis of virtual, hybrid, and in-person events. Offering an end-to-end solution, EventHub provides tools for attendee management, event promotion, video streaming, surveys, messaging, analytics, and more. The platform integrates seamlessly with existing sales and marketing tools, enabling organizers to maximize lead conversion and optimize ROI. With features like customizable branding, multi-language support, and real-time analytics, EventHub ensures a seamless and engaging experience for both organizers and attendees.",
     "size": 50,
-    "reviews": 1200000,
+    "reviews": 12,
     "ratingAvg": 4.3,
-    "downloads": 22000000,
+    "downloads": 22,
     "ratings": [
       { "name": "1 star", "count": 40000 },
       { "name": "2 star", "count": 50000 },
@@ -504,15 +503,15 @@
     ]
   },
   {
-    "image": "https://cdn.example.com/apps/ecoalert.png",
+    "image": "https://play-lh.googleusercontent.com/_E0F9SLvl87qYppg8-ISxc9lz2BIto8zRZIIZ4ZBAvbKB9NQtolwyvrUgbHeDxzti3SEOSGWAwhLbVxwj6H3wCg",
     "title": "EcoAlert",
     "companyName": "GreenFuture Labs",
     "id": 29,
-    "description": "Get environmental news and track your carbon footprint.",
+    "description": "EcoAlert is an application that empowers users to actively participate in environmental conservation by providing timely information on waste disposal schedules and enabling the reporting of abandoned waste. Users can access daily waste collection calendars and report environmental issues by submitting photos or videos of illegal dumping or pollution incidents. This community-driven approach facilitates prompt action from local authorities, promoting cleaner and safer neighborhoods. EcoAlert fosters a collaborative effort to address environmental challenges and encourages civic responsibility in maintaining a sustainable environment.",
     "size": 38,
-    "reviews": 600000,
+    "reviews": 60,
     "ratingAvg": 4.6,
-    "downloads": 10000000,
+    "downloads": 10,
     "ratings": [
       { "name": "1 star", "count": 10000 },
       { "name": "2 star", "count": 20000 },
@@ -522,15 +521,15 @@
     ]
   },
   {
-    "image": "https://cdn.example.com/apps/mindzen.png",
+    "image": "https://static.wixstatic.com/media/d7102f_a7355ed16e65431f97ac2f30266ed9b9~mv2.png/v1/fit/w_2500,h_1330,al_c/d7102f_a7355ed16e65431f97ac2f30266ed9b9~mv2.png",
     "title": "MindZen",
     "companyName": "CalmTech",
     "id": 30,
-    "description": "Meditation and mindfulness for stress relief and focus.",
+    "description": "MindZen is a versatile mental wellness app designed to enhance focus, relaxation, and sleep quality. Offering a curated selection of LoFi, classical, and ambient music, along with nature sounds like rain and ocean waves, MindZen helps users create an ideal environment for productivity or rest. Key features include a customizable timer, progress tracking with heat maps, and a premium subscription that unlocks additional content and features. Whether you're studying, working, or winding down, MindZen provides the auditory tools to support your mental well-being.",
     "size": 45,
-    "reviews": 1600000,
+    "reviews": 16,
     "ratingAvg": 4.9,
-    "downloads": 25000000,
+    "downloads": 25,
     "ratings": [
       { "name": "1 star", "count": 20000 },
       { "name": "2 star", "count": 30000 },
