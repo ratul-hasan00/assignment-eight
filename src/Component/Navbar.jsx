@@ -16,7 +16,7 @@ const Navbar = () => {
         className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow font-semibold">
         <Link to = '/'><li><a>Home</a></li></Link>
         <Link to ='/apps'><li><a>Apps</a></li></Link>
-        <li><a>Installation</a></li>
+        <Link to='/installation'><li><a>Installation</a></li></Link>
       </ul>
     </div>
     <div className='flex items-center gap-2'><img className='w-[40px]' src={logo} alt="" /><a className="bg-gradient-to-r from-[#632ee3] to-[#9f62f2] bg-clip-text text-transparent text-xl font-semibold ">HERO.IO</a></div>
@@ -26,7 +26,7 @@ const Navbar = () => {
     <ul className="menu menu-horizontal px-1 font-semibold">
       <Link to = '/'><li><a>Home</a></li></Link>
       <Link to ='/apps'><li><a>Apps</a></li></Link>
-      <li><a>Installation</a></li>
+     <Link to='/installation'><li><a>Installation</a></li></Link>
     </ul>
   </div>
   <div className="navbar-end">

@@ -6,6 +6,7 @@
     "id": 1,
     "description": "Spotify is the world's leading music and podcast streaming platform that gives you instant access to millions of songs, albums, and shows from artists all around the world. Enjoy personalized playlists, discover new music through smart recommendations, and listen to your favorite tracks anytime, anywhere. With Spotify Premium, you can stream ad-free, download music for offline listening, and enjoy high-quality audio. Whether you're relaxing, working out, studying, or commuting, Spotify has the perfect soundtrack for every moment.",
     "reviews": 125,
+    "size":45,
     "ratingAvg": 4.7,
     "downloads": 500,
     "ratings": [
