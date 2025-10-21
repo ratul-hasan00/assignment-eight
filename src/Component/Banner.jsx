@@ -13,8 +13,8 @@ const Banner = () => {
         to make everyday life simpler, smarter, and more exciting.
         Our goal is to turn your ideas into digital experiences that truly make an impact.
       </p>
-      <button className="btn font-semibold m-2"><img className='w-[20px]' src={playstore} alt="" />Google Play</button>
-      <button className="btn font-semibold m-2"><img className='w-[20px]' src={appstore} alt="" />App Store</button>
+      <a href="https://play.google.com/store" target="_blank"><button className="btn border-none bg-[#d9d9d980] font-semibold m-2 rounded-xl"><img className='w-[20px]' src={playstore} alt="" />Google Play</button></a>
+      <a href="https://www.apple.com/app-store/" target="_blank" ><button className="btn border-none bg-[#d9d9d980] font-semibold m-2 px-6 rounded-xl"><img className='w-[20px]' src={appstore} alt="" />App Store</button></a>  
     </div>
   </div>
 </div>

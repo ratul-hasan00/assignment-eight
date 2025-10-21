@@ -142,23 +142,5 @@
       { "name": "4 star", "count": 2400000 },
       { "name": "5 star", "count": 3300000 }
     ]
-  },
-  {
-    "image": "https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxo4K81Ei7WzcnqEk8W.MgwZFE_jBn46Q0eZmYS1jqh9hsP2yct.ANJrdxy.La13GX7IADGcPOztqti6H6DAjzvg-&format=source",
-    "title": "Canva",
-    "companyName": "Canva Pty Ltd.",
-    "id": 9,
-    "description": "Canva is a user-friendly graphic design platform that allows anyone to create stunning visuals, presentations, social media posts, posters, and more. With thousands of templates, easy drag-and-drop tools, and access to millions of images, icons, and fonts, Canva makes design simple and accessible for everyone. Collaborate with teams, customize designs, and bring your creative ideas to life effortlessly.",
-    "size": 70,
-    "reviews": 65,
-    "ratingAvg": 4.8,
-    "downloads": 500,
-    "ratings": [
-      { "name": "1 star", "count": 150000 },
-      { "name": "2 star", "count": 200000 },
-      { "name": "3 star", "count": 400000 },
-      { "name": "4 star", "count": 900000 },
-      { "name": "5 star", "count": 4850000 }
-    ]
   }
 ]
