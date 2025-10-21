@@ -2,11 +2,12 @@
 import React from 'react';
 import { createBrowserRouter } from "react-router";
 import Root from '../Pages/Root/Root';
-import Home from '../Pages/Home/Home';
 import Apps from '../Pages/Apps/Apps';
-import AppDetails from '../Pages/AppDetails/AppDetails';
+import AppDetails from "../Pages/AppDetails/AppDetails";
 import ErrorPage from '../Pages/ErrorPage/ErrorPage';
 import Installation from '../Pages/Installation/Installation';
+import Home from '../Pages/Home/Home';
+
 
 
 
@@ -18,7 +19,7 @@ export const router = createBrowserRouter([
     children:[
         {
             index: true,
-            Component: Home
+            element:<Home></Home>
         },
         {
           path:'/apps',
@@ -26,17 +27,17 @@ export const router = createBrowserRouter([
         },
         {
           path:'/installation',
-          Component: Installation
+          element: <Installation></Installation>
         },
         {
           path:'/installation/:id',
           loader:()=>fetch('/appsThirtyData.json').then(res => res.json()),
-          Component: Installation
+          element: <Installation></Installation>
         },
         {
           path: '/appDetails/:id',
           loader:()=>fetch('/appsThirtyData.json').then(res => res.json()),
-          Component: AppDetails
+          element: <AppDetails></AppDetails>
         },
         {
           path: '*',
